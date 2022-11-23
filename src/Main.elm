@@ -306,7 +306,7 @@ view model =
             ]
         , div [ A2.style "margin-top" "50px"]
             [ text "Source code: "
-            , a [ A2.href "" ] [ text "Github" ]
+            , a [ A2.href "https://github.com/youngjol/mirror-animation" ] [ text "Github" ]
             ]
         ]
     ]
